@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Al Faisal, a web development learning enthusiast.
+
+- 🔭 I’m currently working on frontend ui
+- 🌱 I’m currently learning JavaScript ES6
+- 👯 I’m looking to collaborate on frontend projects
+
 <!--
 **AlFaisal001/alfaisal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
